@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756105779342",
+    "firebase_url": "https://celebrate-v1.firebaseio.com",
+    "project_id": "celebrate-v1",
+    "storage_bucket": "celebrate-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756105779342:android:8e5ead4701c757c86e11df",
+        "android_client_info": {
+          "package_name": "com.bluecowgroup.celebrate.ballot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756105779342-1tgfucf77japvf3k5etrjht1oa7e5hd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluecowgroup.celebrate.ballot",
+            "certificate_hash": "7d92665f6447173b268ae8c74b82379e10d6e38c"
+          }
+        },
+        {
+          "client_id": "756105779342-bvkneocclbtciutjjh703687cb8u5iuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoHqGfCoOir77H-UaCWJqjUBQrUNGoLLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756105779342-bvkneocclbtciutjjh703687cb8u5iuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
